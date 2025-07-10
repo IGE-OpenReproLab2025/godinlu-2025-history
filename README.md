@@ -22,16 +22,9 @@ However, these images are challenging to process. Various processing pipelines h
 
 |Pipeline|Software|A/M|Data|Institutes|Reference|
 |---|---|---|---|---|---|
-|HexiMap|MatLab|A|KH9-carto|U. of Utah, USA|(Maurer and Rupper, 2015)|
-|IPGP|MicMac|A|KH-4|IPGP ; IGN, France|(Lauer, 2019)|
 |SpyMicMac|MicMac, Python|A|KH9-carto|U. of Ulster, UK|Non publication|
 |ASPy|ASP, Python|A|KH9-carto|IGE, France|(Dehecq et al., 2020)|
-|Corona Stereo Pipeline|MicMac, Matlab|A|KH-4, KH9-pano|IST, Pakistan ; IGN, France|(Ghuffar et al., 2023, 2022)|
 |HSfM|ASP, Metashape, Python|A|Aéro|U. of Washington, USA|(Knuth et al., 2023)|
-|J. Hollingsworth|ASP, Matlab|A/M|KH-4|ISTerre, France|Non publié|
-|J. Belart|ASP, MicMac|A/M|Aéro, KH9-carto|U. of Iceland|(Belart et al., 2020, 2019)|
-|A. Racoviteanu|ERDAS|M|KH-4|IGE, France|(Racoviteanu et al., 2022, 2015)|
-|R. Basantes|ERDAS, Metashape|M|Aéro|IKIAM, Equateur|(Basantes-Serrano et al., 2016)|
 
 ***Table 2**: List of existing processing pipelines for historical data to be evaluated in the HISTORY project(A : Automatic, M : Manual).*
 
